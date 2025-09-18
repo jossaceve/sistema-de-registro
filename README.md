@@ -4,6 +4,6 @@ Repositorio de trabajo
 
 - Estado del proyecto en construcción
 
-Para Ejecutar el sistema, debes poner:
+Para Ejecutar el sistema, deberas poner:
 
 ```npm install react```
